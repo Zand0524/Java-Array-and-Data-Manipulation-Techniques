@@ -1,6 +1,6 @@
 # Java Array and Data Manipulation
 
-This project demonstrates essential Java principles for a Junior Software Engineer, focusing on array handling, sorting, and data manipulation techniques.
+This project demonstrates essential Java principles, focusing on array handling, sorting, and data manipulation techniques.
 
 ## Key Objectives and Points
 - Reading and parsing user input into an array.
